@@ -4,17 +4,19 @@
     "url": "https://dc.ttr3.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dc.ttr3.eu.ico",
     "slug": "discord-invite-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 745,
-    "timeWeek": 973,
-    "timeMonth": 966,
-    "timeYear": 966,
-    "dailyMinutesDown": {}
+    "time": 944,
+    "timeDay": 672,
+    "timeWeek": 926,
+    "timeMonth": 944,
+    "timeYear": 944,
+    "dailyMinutesDown": {
+      "2023-02-15": 0
+    }
   }
 ]
